@@ -1,2 +1,0 @@
-README - 
-sample mini programs
